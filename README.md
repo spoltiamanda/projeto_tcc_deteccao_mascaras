@@ -1,4 +1,4 @@
-# Projeto de Conclusão de Curso - Utilizando YOLOX e YOLOv5 para Detecção
+# Projeto de Conclusão de Curso - Utilizando YOLOX e YOLOv5 para Detecção de Máscaras
 
 ## PUC Minas - Pós Graduação em Inteligência Artificial e Aprendizado de Máquina
 
@@ -9,3 +9,4 @@ dataset, treinado por duas versões do YOLO: o YOLOv5 (JOCHER, 2021) e o YOLOX
 Com isso, sistemas podem ser criados utilizando tais modelos para monitoramento
 em tempo real a apartir da análise de câmeras, podendo gerar alertas em um alto-falante,
 por exemplo.
+
