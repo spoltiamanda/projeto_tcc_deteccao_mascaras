@@ -1,0 +1,33 @@
+AP for with_mask = 0.9668
+AP for without_mask = 0.9950
+AP for mask_weared_incorrect = 0.9037
+Mean AP = 0.9552
+~~~~~~~~
+Results:
+0.967
+0.995
+0.904
+0.955
+~~~~~~~~
+
+--------------------------------------------------------------
+Results computed with the **unofficial** Python eval code.
+Results should be very close to the official MATLAB eval code.
+Recompute with `./tools/reval.py --matlab ...` for your paper.
+-- Thanks, The Management
+--------------------------------------------------------------
+Eval IoU : 0.55
+Eval IoU : 0.60
+Eval IoU : 0.65
+Eval IoU : 0.70
+Eval IoU : 0.75
+Eval IoU : 0.80
+Eval IoU : 0.85
+Eval IoU : 0.90
+Eval IoU : 0.95
+--------------------------------------------------------------
+map_5095: 0.7676449270119731
+map_50: 0.9551831438558729
+--------------------------------------------------------------
+2021-10-20 14:06:18 | INFO     | __main__:185 - 
+Average forward time: 165.62 ms, Average NMS time: 1.71 ms, Average inference time: 167.34 ms
